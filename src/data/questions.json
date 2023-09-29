@@ -1,0 +1,283 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "options": ["Paris", "Londres", "Berlin"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Quelle planète est connue sous le nom de Planète Rouge ?",
+    "options": ["Mars", "Terre", "Vénus"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "Quel est le plus grand mammifère ?",
+    "options": ["Éléphant", "Baleine bleue", "Girafe"],
+    "correctAnswer": "Baleine bleue"
+  },
+  {
+    "question": "Quelle est la plus grande planète de notre système solaire ?",
+    "options": ["Jupiter", "Saturne", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "options": ["Leonard de Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Leonard de Vinci"
+  },
+  {
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "options": ["Mont Everest", "Mont Kilimandjaro", "Mont McKinley"],
+    "correctAnswer": "Mont Everest"
+  },
+  {
+    "question": "Qui a écrit 'Romeo et Juliette' ?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Quel est le nom du président actuel des États-Unis ?",
+    "options": ["Joe Biden", "Donald Trump", "Barack Obama"],
+    "correctAnswer": "Joe Biden"
+  },
+  {
+    "question": "Quelle est la distance moyenne entre la Terre et la Lune ?",
+    "options": ["384 400 kilomètres", "149,6 millions de kilomètres", "12 742 kilomètres"],
+    "correctAnswer": "384 400 kilomètres"
+  },
+  {
+    "question": "Quelle est la vitesse de la lumière dans le vide ?",
+    "options": ["299 792 458 mètres par seconde", "1 000 kilomètres par heure", "30 000 000 mètres par seconde"],
+    "correctAnswer": "299 792 458 mètres par seconde"
+  },
+  {
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "options": ["Berlin", "Munich", "Hambourg"],
+    "correctAnswer": "Berlin"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'oxygène ?",
+    "options": ["O", "O2", "OX"],
+    "correctAnswer": "O"
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "options": ["Victor Hugo", "Gustave Flaubert", "Marcel Proust"],
+    "correctAnswer": "Victor Hugo"
+  },
+  {
+    "question": "Quel est le composant principal de l'air que nous respirons ?",
+    "options": ["Azote", "Oxygène", "Dioxyde de carbone"],
+    "correctAnswer": "Azote"
+  },
+  {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "options": ["Mercure", "Vénus", "Mars"],
+    "correctAnswer": "Mercure"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "options": ["Océan Pacifique", "Océan Atlantique", "Océan Indien"],
+    "correctAnswer": "Océan Pacifique"
+  },
+  {
+    "question": "Quelle est la capitale du Japon ?",
+    "options": ["Tokyo", "Kyoto", "Osaka"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "Qui a peint 'La Nuit étoilée' ?",
+    "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso"],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "options": ["Jupiter", "Saturne", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Qui a écrit 'L'Étranger' ?",
+    "options": ["Albert Camus", "Marcel Proust", "Gustave Flaubert"],
+    "correctAnswer": "Albert Camus"
+  },
+  {
+    "question": "Quel est le fleuve le plus long du monde ?",
+    "options": ["Le Nil", "L'Amazone", "Le Mississippi"],
+    "correctAnswer": "Le Nil"
+  },
+  {
+    "question": "Qui est l'auteur de '1984' ?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Quelle est la première lettre de l'alphabet grec ?",
+    "options": ["Alpha", "Bêta", "Oméga"],
+    "correctAnswer": "Alpha"
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "options": ["7", "5", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Quelle est la distance entre la Terre et le Soleil ?",
+    "options": ["Environ 149,6 millions de kilomètres", "Environ 100 000 kilomètres", "Environ 10 millions de kilomètres"],
+    "correctAnswer": "Environ 149,6 millions de kilomètres"
+  },
+  {
+    "question": "Quelle est la planète la plus éloignée du Soleil dans notre système solaire ?",
+    "options": ["Neptune", "Pluton", "Uranus"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "options": ["Le Sahara", "Le désert de Gobi", "Le désert d'Atacama"],
+    "correctAnswer": "Le Sahara"
+  },
+  {
+    "question": "Qui est l'auteur de 'Guerre et Paix' ?",
+    "options": ["Léon Tolstoï", "Fiodor Dostoïevski", "Anton Tchekhov"],
+    "correctAnswer": "Léon Tolstoï"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "options": ["Au", "Ag", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "options": ["Antoine de Saint-Exupéry", "Albert Camus", "Marcel Proust"],
+    "correctAnswer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "question": "Quelle est la capitale de l'Italie ?",
+    "options": ["Rome", "Milan", "Naples"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Qui a écrit 'Orgueil et Préjugés' ?",
+    "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë"],
+    "correctAnswer": "Jane Austen"
+  },
+  {
+    "question": "Quelle est la plus grande chaîne de montagnes du monde ?",
+    "options": ["L'Himalaya", "Les Alpes", "Les Andes"],
+    "correctAnswer": "L'Himalaya"
+  },
+  {
+    "question": "Quel est le symbole chimique du sodium ?",
+    "options": ["Na", "Sa", "So"],
+    "correctAnswer": "Na"
+  },
+  {
+    "question": "Qui a écrit 'La Divine Comédie' ?",
+    "options": ["Dante Alighieri", "Francesco Petrarch", "Giovanni Boccaccio"],
+    "correctAnswer": "Dante Alighieri"
+  },
+  {
+    "question": "Quel est le plus grand lac d'eau douce au monde ?",
+    "options": ["Le lac Supérieur", "Le lac Baïkal", "Le lac Victoria"],
+    "correctAnswer": "Le lac Baïkal"
+  },
+  {
+    "question": "Qui est l'artiste américain connu pour ses œuvres pop art, telles que 'Campbell's Soup Cans' et 'Marilyn Monroe' ?",
+    "options": ["Andy Warhol", "Jackson Pollock", "Vincent van Gogh"],
+    "correctAnswer": "Andy Warhol"
+},
+{
+    "question": "Quel musicien américain est surnommé le 'Roi du Rock and Roll' ?",
+    "options": ["Elvis Presley", "Johnny Cash", "Bob Dylan"],
+    "correctAnswer": "Elvis Presley"
+},
+{
+    "question": "Qui a écrit le roman américain classique 'The Great Gatsby' ?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "F. Scott Fitzgerald"
+},
+{
+    "question": "Quelle artiste américaine est célèbre pour sa série de peintures sur les fleurs, tels que 'Jimson Weed' ?",
+    "options": ["Georgia O'Keeffe", "Frida Kahlo", "Mary Cassatt"],
+    "correctAnswer": "Georgia O'Keeffe"
+},
+{
+    "question": "Qui a réalisé le film 'Star Wars' et est l'un des réalisateurs les plus influents de l'histoire du cinéma ?",
+    "options": ["George Lucas", "Steven Spielberg", "Martin Scorsese"],
+    "correctAnswer": "George Lucas"
+},
+{
+    "question": "Quel écrivain américain a écrit le roman dystopique 'Fahrenheit 451' ?",
+    "options": ["Ray Bradbury", "George Orwell", "Aldous Huxley"],
+    "correctAnswer": "Ray Bradbury"
+},
+{
+    "question": "Qui est la célèbre chanteuse américaine qui a interprété des titres tels que 'Rehab' et 'Back to Black' ?",
+    "options": ["Amy Winehouse", "Madonna", "Adele"],
+    "correctAnswer": "Amy Winehouse"
+},
+{
+    "question": "Quel cinéaste américain a réalisé des films tels que 'Pulp Fiction' et 'Kill Bill' ?",
+    "options": ["Quentin Tarantino", "Christopher Nolan", "Coen Brothers"],
+    "correctAnswer": "Quentin Tarantino"
+},
+{
+    "question": "Quel artiste américain est célèbre pour ses œuvres d'art conceptuel, comme 'Fountain,' qui est en fait un urinoir ?",
+    "options": ["Marcel Duchamp", "Jackson Pollock", "Mark Rothko"],
+    "correctAnswer": "Marcel Duchamp"
+},
+{
+    "question": "Qui a écrit le poème 'The Road Not Taken' et est l'un des poètes les plus respectés d'Amérique ?",
+    "options": ["Robert Frost", "Langston Hughes", "Maya Angelou"],
+    "correctAnswer": "Robert Frost"
+},
+  {
+      "question": "Quel film de science-fiction met en vedette Keanu Reeves dans le rôle de Neo, un pirate informatique qui découvre la vérité sur la Matrice ?",
+      "options": ["Matrix", "Inception", "Blade Runner"],
+      "correctAnswer": "Matrix"
+  },
+  {
+      "question": "Quelle série de télévision populaire met en scène des dragons, des marcheurs blancs et des intrigues politiques dans le royaume de Westeros ?",
+      "options": ["Game of Thrones", "The Walking Dead", "Breaking Bad"],
+      "correctAnswer": "Game of Thrones"
+  },
+  {
+      "question": "Quel réalisateur a dirigé des films tels que 'Jurassic Park', 'E.T. l'extra-terrestre' et 'Les Dents de la Mer' ?",
+      "options": ["Steven Spielberg", "Martin Scorsese", "Quentin Tarantino"],
+      "correctAnswer": "Steven Spielberg"
+  },
+  {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 1994 et met en scène Tom Hanks dans le rôle d'un homme atteint du VIH ?",
+      "options": ["Philadelphia", "Forrest Gump", "Saving Private Ryan"],
+      "correctAnswer": "Philadelphia"
+  },
+  {
+      "question": "Quelle série de science-fiction suit les aventures du Docteur, un voyageur dans le temps extraterrestre, à bord d'un vaisseau spatial appelé le TARDIS ?",
+      "options": ["Doctor Who", "Stargate SG-1", "The X-Files"],
+      "correctAnswer": "Doctor Who"
+  },
+  {
+      "question": "Quel réalisateur a créé la trilogie du 'Seigneur des Anneaux' adaptée des romans de J.R.R. Tolkien ?",
+      "options": ["Peter Jackson", "George Lucas", "Christopher Nolan"],
+      "correctAnswer": "Peter Jackson"
+  },
+  {
+      "question": "Quel film d'animation met en vedette Simba, un jeune lion, et raconte son voyage pour devenir roi de la Terre des Lions ?",
+      "options": ["Le Roi Lion", "Aladdin", "Mulan"],
+      "correctAnswer": "Le Roi Lion"
+  },
+  {
+      "question": "Quelle série de télévision met en scène un chimiste devenu trafiquant de drogue, nommé Walter White, et son partenaire Jesse Pinkman ?",
+      "options": ["Breaking Bad", "The Sopranos", "The Wire"],
+      "correctAnswer": "Breaking Bad"
+  },
+  {
+      "question": "Quelle série de science-fiction suit les enquêtes paranormales de deux agents du FBI, Fox Mulder et Dana Scully ?",
+      "options": ["The X-Files", "Fringe", "Twin Peaks"],
+      "correctAnswer": "The X-Files"
+  },
+  {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 et suit l'histoire d'un chauffeur de taxi et de sa relation avec une jeune femme déficiente visuelle ?",
+      "options": ["Parasite", "Joker", "Le Discours d'un Roi"],
+      "correctAnswer": "Parasite"
+  }
+
+]
